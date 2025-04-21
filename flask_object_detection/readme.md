@@ -8,4 +8,19 @@ this app will
 * Display the processed image with detected objects.
 
 # Steps to Create the Flask Object Detection Web App
-1. # Prerequisites
+# 1.Prerequisites
+* Ensure Python 3.8 or higher is installed. Download from python.org if needed.
+* Install Git for Windows (optional, for cloning repositories): git-scm.com.
+* Have a text editor like VS Code or Notepad++ for editing code.
+
+# 2. Set Up the Project Environment
+## a.Create a Project Directory
+* Open a Command Prompt (cmd) or PowerShell.
+* Create and navigate to a project directory:
+```bash
+mkdir flask_object_detection
+cd flask_object_detection
+
+## b.Set Up a Virtual Environment
+* Create a virtual environment:
+     

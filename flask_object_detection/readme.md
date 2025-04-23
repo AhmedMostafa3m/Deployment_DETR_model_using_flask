@@ -137,3 +137,7 @@ Below are the files names for the Flask app. these apps are located as mentioned
 - The app might detect “car” (score: 0.95), “person” (score: 0.92), etc., and draw green boxes with labels.
 - The result page shows the original image and the processed image with annotations.
 
+```
+![bus](https://github.com/user-attachments/assets/cb060f52-0f78-4dd0-ba17-1769c4d29b44)
+
+```

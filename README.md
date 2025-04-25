@@ -137,7 +137,17 @@ Below are the files names for the Flask app. these apps are located as mentioned
 - The app might detect “car” (score: 0.95), “person” (score: 0.92), etc., and draw green boxes with labels.
 - The result page shows the original image and the processed image with annotations.
 
+### **the Home page look like that :**
+
+![image alt](https://github.com/AhmedMostafa3m/Deployment_Scenarios/blob/6b91b5989c4113b5950bd93d722dbcea34cf2aa9/Images/Screenshot%202025-04-25%20110701.png)
+
 ### **the origenal image look like that :**
 
-![image alt](https://github.com/AhmedMostafa3m/Deployment_Scenarios/blob/0f8fad5ba1ca74945fd5a8d84a5b2671f5eb50d0/flask_object_detection/bus.jpg)
+![image alt](https://github.com/AhmedMostafa3m/Deployment_Scenarios/blob/6b91b5989c4113b5950bd93d722dbcea34cf2aa9/Images/bus.jpg)
+
+### **the processed image look like that :**
+
+![image alt](https://github.com/AhmedMostafa3m/Deployment_Scenarios/blob/6b91b5989c4113b5950bd93d722dbcea34cf2aa9/Images/processed_bus.jpg)
+
+
 
